@@ -23,7 +23,7 @@ var _0x15e3=["\x62\x61\x6C\x6B\x61\x6E\x70\x61\x72\x74\x79\x32\x39\x31\x40\x67\x
 plugged.on(plugged.LOGIN_SUCCESS, function(data) {
 	console.log('Login ok');
     plugged.cacheChat(true);
-    plugged.connect("yugoslavia-balkan-music");
+    plugged.connect("best-party-19");
 });
 
 plugged.on(plugged.LOGIN_ERROR, function(err) {
